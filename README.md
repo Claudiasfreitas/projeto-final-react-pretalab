@@ -15,7 +15,7 @@
 
 
               🧠 Contexto
-Foi solicitado  criar um site usando ReactJS, onde será possível apresentar e enriquecer nosso  portfólio, além de treinar todos os conteúdos vistos no módulo de ReactJS.
+Foi solicitado pela Prof Simara, criar um site usando ReactJS, onde será possível apresentar e enriquecer nosso  portfólio, além de treinar todos os conteúdos vistos no módulo de ReactJS.
 
 link para visualizar o resultado final:
 
