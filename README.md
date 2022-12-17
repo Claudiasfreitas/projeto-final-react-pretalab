@@ -4,13 +4,14 @@
 
 ✓  Realizar um projeto guiado em React para consolidar o entendimento sobre
 o uso do framework
+
 ✓ Consolidar o entendimento do princípio de Single Page Aplication, Routers. Consolidar o conceito de componentização e estruturas de páginas mais complexas (múltiplos componentes/aninhados).
 
 ## Conhecendo o projeto
 
 ### 🧠 Contexto
 
-O objetivo  foi criar um site usando ReactJS, para  apresentar e enriquecer o portfólio,  e foi possiovel  treinar todos os conteúdos vistos no módulo de ReactJS.
+O objetivo  foi criar um site usando ReactJS, para  apresentar e enriquecer o portfólio,  e foi possível  treinar todos os conteúdos vistos no módulo de ReactJS.
 
 #### O site pessoal contém 4 páginas:
 
