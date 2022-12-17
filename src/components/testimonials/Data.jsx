@@ -8,7 +8,7 @@ export const Data = [
     image: Image1,
     title: "Jhon Doe",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Um trabakho really good job, all aspects of the project were followed step by step and with good results.",
   },
   {
     id: 2,
