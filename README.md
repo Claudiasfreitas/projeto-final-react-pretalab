@@ -5,8 +5,11 @@
  Objetivos do projeto
 
  ✓ Realizar um projeto guiado em React para consolidar o entendimento sobre o uso do framework
+ 
  ✓ Consolidar o entendimento do princípio de Single Page Aplication, Routers.
+ 
  ✓ Consolidar o conceito de componentização e estruturas de páginas mais complexas (múltiplos componentes/aninhados).
+ 
 
   Conhecendo o projeto
 
