@@ -7,8 +7,8 @@ import Info from "./Info";
 const About = () => {
   return (
     <section className="about section" id="about">
-      <h2 className="section__title">About Me</h2>
-      <span className="section__subtitle">My introduction</span>
+      <h2 className="section__title">Sobre</h2>
+      <span className="section__subtitle">Introdução</span>
 
       <div className="about__container container grid">
         <img src={AboutImg} alt="" className="about__img" />
@@ -17,9 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out.
+          Desenvolvedor frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
           </p>
 
           <a download="" href={CV} className="button button--flex">

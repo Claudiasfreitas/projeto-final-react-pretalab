@@ -5,24 +5,24 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Smith</h1>
+        <h1 className="footer__title">Claudia</h1>
 
         <ul className="footer__list">
           <li>
             <a href="#about" className="footer__link">
-              About
+              Sobre
             </a>
           </li>
 
           <li>
             <a href="#portfolio" className="footer__link">
-              Projects
+              Projetos
             </a>
           </li>
 
           <li>
             <a href="#testimonials" className="footer__link">
-              Testimonials
+              Depoimentos
             </a>
           </li>
         </ul>

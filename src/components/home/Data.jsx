@@ -4,7 +4,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        John Smith
+      ClaudiaFreitas
         <svg
           width="36"
           height="36"
@@ -55,15 +55,13 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Desenvolvedor Web</h3>
+      <h3 className="home__subtitle">Desenvolvedora Frontend</h3>
       <p className="home__description">
-      Desenvolvedora Frontend, crio páginas web com interface de usuário UI/UX, 
-     Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. 
-      Viso criar projetos que proporcionem a melhor experiência do usuário.
+      Desenvolvedor frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
       </p>
 
       <a href="#contact" className="button button--flex">
-        Say Hello!
+         Hello!
         <svg
           class="button__icon"
           xmlns="http://www.w3.org/2000/svg"

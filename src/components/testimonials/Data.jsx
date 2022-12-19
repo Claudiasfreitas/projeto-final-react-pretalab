@@ -6,22 +6,22 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "Jhon Doe",
+    title: "Manoella Terapias",
     description:
-      "Um trabakho really good job, all aspects of the project were followed step by step and with good results.",
+      "Um trabalho muito bom, todos os aspectos do projeto foram seguidos passo a passo e com bons resultados.",
   },
   {
     id: 2,
     image: Image2,
-    title: "Harry Clinton",
+    title: "Paula Holanda",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Um trabalho muito bom, todos os aspectos do projeto foram seguidos passo a passo e com bons resultados.",
   },
   {
     id: 3,
     image: Image3,
-    title: "Sara Cill",
+    title: "Flávia Oliveira",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Um trabalho muito bom, todos os aspectos do projeto foram seguidos passo a passo e com bons resultados."
   },
 ];

@@ -10,8 +10,8 @@ const Qualification = () => {
 
   return (
     <section className="qualification section">
-      <h2 className="section__title">Qualification</h2>
-      <span className="section__subtitle">My personel journey</span>
+      <h2 className="section__title">Qualificação</h2>
+      <span className="section__subtitle">minha jornada pessoal</span>
 
       <div className="qualification__container container">
         <div className="qualification__tabs">
@@ -24,7 +24,7 @@ const Qualification = () => {
             onClick={() => toggleTab(1)}
           >
             <i className="uil uil-graduation-cap qualification__icon"></i>
-            Education
+            Educação
           </div>
 
           <div
@@ -36,7 +36,7 @@ const Qualification = () => {
             onClick={() => toggleTab(2)}
           >
             <i className="uil uil-briefcase-alt qualification__icon"></i>
-            Experience
+            Experiência
           </div>
         </div>
 
@@ -50,12 +50,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Análise Sistemas</h3>
+                <h3 className="qualification__title">Análise e Desenvolvimento de Sistemas</h3>
                 <span className="qualification__subtitle">
-                  Spain - Estácio de Sá
+                   Estácio de Sá
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2022 - Present
+                  <i className="uil uil-calendar-alt"></i> 2022 - Cursando
                 </div>
               </div>
 
@@ -74,24 +74,24 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Social Midea </h3>
+                <h3 className="qualification__title">Ciclo Formativo Tecnológico </h3>
                 <span className="qualification__subtitle">
-                  Spain - Kianda Solulções
+                  Pretalab
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> 2022-Concluído
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">Formação Tecnológica</h3>
                 <span className="qualification__subtitle">
-                  Spain - Kianda Soluções
+                 Instituto Nu e Descomplica
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2017 - 2020
+                  <i className="uil uil-calendar-alt"></i> 2022-Concluído
                 </div>
               </div>
 
@@ -109,12 +109,12 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">UX Expert</h3>
+                <h3 className="qualification__title">Formação Tecnológica</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institute
+                  ONE-Oracle Next Education
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2017 - 2018
+                  <i className="uil uil-calendar-alt"></i> 2022-2023 Cursando
                 </div>
               </div>
             </div>
@@ -131,7 +131,7 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification__title">Analista Marketing</h3>
                 <span className="qualification__subtitle">
-                  Weblink - Spain
+                  Weblink 
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2017-2018
@@ -166,7 +166,7 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Social midea</h3>
-                <span className="qualification__subtitle">Negras plurais - Spain</span>
+                <span className="qualification__subtitle">Negras plurais</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2020-2020
                 </div>

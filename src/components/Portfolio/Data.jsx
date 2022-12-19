@@ -14,25 +14,25 @@ export const projectsData = [
   {
     id: 2,
     image: Work2,
-    title: "App movil",
+    title: "aplicativo móvel",
     category: "app",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
+    title: "Designer de Web",
     category: "design",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
-    category: "app",
+    title: "Social Midea",
+    category: "web",
   },
   {
     id: 5,
     image: Work5,
-    title: "Web design",
+    title: "Marketing",
     category: "web",
   },
 ];
