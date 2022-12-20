@@ -10,9 +10,6 @@
  
  ✓ Consolidar o conceito de componentização e estruturas de páginas mais complexas (múltiplos componentes/aninhados).
 
-     Conhecendo o projeto
-
- 🧠 Contexto
 Foi solicitado pela Prof Simara, criar um site usando ReactJS, onde será possível apresentar e enriquecer nosso  portfólio, além de treinar todos os conteúdos vistos no módulo de ReactJS.
 
 link para visualizar o resultado final:https://projeto-final-react-pretalab-ten.vercel.app/
