@@ -21,11 +21,3 @@ Habilidades
 Serviços
 portfólio
 Contato
-
-Todas as páginas possuem os componentes:
-
-Menu
-Header
-Footer
-Estrutura do projeto
-estrutura de pastas
