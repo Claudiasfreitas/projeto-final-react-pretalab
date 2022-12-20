@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          Desenvolvedor frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
+          Desenvolvedora frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
           </p>
 
           <a download="" href={CV} className="button button--flex">

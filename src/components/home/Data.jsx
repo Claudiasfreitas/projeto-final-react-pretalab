@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Desenvolvedora Frontend</h3>
       <p className="home__description">
-      Desenvolvedor frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
+      Desenvolvedora frontend, crio páginas web com interface de usuário UI/UX, Como uma pessoa que ama designs intuitivos e esteticamente agradáveis. Viso criar projetos que proporcionem a melhor experiência do usuário.
       </p>
 
       <a href="#contact" className="button button--flex">
